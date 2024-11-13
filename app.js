@@ -1,9 +1,12 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 const heading1 = React.createElement(
   "h1",
   {
     className: "heading",
   },
-  "Hello World from React!"
+  "Hello World from React!!!"
 );
 const heading2 = React.createElement(
   "h1",
